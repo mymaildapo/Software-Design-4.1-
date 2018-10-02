@@ -1,0 +1,9 @@
+learn aggregation
+
+aggregation consit of
+
+use aggregation instead of inheritance
+
+only aggregation as possible
+
+recursion when one method call itself
